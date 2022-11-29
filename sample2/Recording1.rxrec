@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="86fd4817-02c6-408f-a2d8-57cf61c0ac27"
+mode="Global">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="Recording1"
+	namespace="sample2">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+	</recorditems>
+	<repository
+	id="59ca0770-1c09-4059-9d9c-cef693ec390d"
+	name="sample2Repository"
+	relativepath="sample2Repository.rxrep">
+		<codegen
+		classname="sample2Repository"
+		namespace="sample2">
+		</codegen>
+		<rootfolder
+		id="0222a04c-b4ed-4cda-9eb0-4486d2fae576"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		Recording1.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>
